@@ -4,4 +4,4 @@ Trabalho com Design Web, boa parte do meu conhecimento na área vem de um estudo
 
 [![Twitter Badge](https://img.shields.io/badge/-oglimap-3D464D?style=flat-square&labelColor=26A8AF&logo=twitter&logoColor=white&link=https://twitter.com/oglimap)](https://twitter.com/oglimap)
 [![Instagram Badge](https://img.shields.io/badge/-oglimap-3D464D?style=flat-square&labelColor=26A8AF&logo=Instagram&logoColor=white&link=https://www.instagram.com/oglimap/)](https://www.instagram.com/oglimap/)
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme-3D464D?style=flat-square&labelColor=26A8AF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/glimap/)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme-3D464D?style=flat-square&labelColor=26A8AF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glimap/)](https://www.linkedin.com/in/glimap/)
